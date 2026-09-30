@@ -1,0 +1,30 @@
+[
+  {
+    "id": "T1",
+    "agent_id": "A1",
+    "description": "Llamar a Juan P\u00e9rez para renovar p\u00f3liza",
+    "status": "pending",
+    "due_date": "2026-10-05"
+  },
+  {
+    "id": "T2",
+    "agent_id": "A2",
+    "description": "Enviar presupuesto a Mar\u00eda Garc\u00eda",
+    "status": "completed",
+    "due_date": "2026-09-25"
+  },
+  {
+    "id": "T3",
+    "agent_id": "A1",
+    "description": "Call client for policy review",
+    "status": "pending",
+    "due_date": "2026-10-10"
+  },
+  {
+    "id": "T4",
+    "agent_id": "A1",
+    "description": "Call client for policy review",
+    "status": "pending",
+    "due_date": "2026-10-10"
+  }
+]

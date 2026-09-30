@@ -1,0 +1,47 @@
+[
+  {
+    "agent_id": "A1",
+    "start": "2026-09-30T10:00:00-04:00",
+    "title": "Follow-up Laura"
+  },
+  {
+    "agent_id": "A1",
+    "start": "2026-09-30T14:00:00-04:00",
+    "title": "Policy Review with Jose"
+  },
+  {
+    "agent_id": "A1",
+    "start": "2026-10-01T09:00:00-04:00",
+    "title": "New Client Onboarding"
+  },
+  {
+    "agent_id": "A2",
+    "start": "2026-09-30T10:00:00-05:00",
+    "title": "Pedro review"
+  },
+  {
+    "agent_id": "A2",
+    "start": "2026-09-30T16:00:00-05:00",
+    "title": "Quarterly Sync with Maria"
+  },
+  {
+    "agent_id": "A2",
+    "start": "2026-10-02T11:00:00-05:00",
+    "title": "Insurance Claim Audit"
+  },
+  {
+    "agent_id": "A1",
+    "title": "Follow-up call",
+    "start": "2026-10-01T10:00:00-04:00"
+  },
+  {
+    "agent_id": "A1",
+    "title": "Follow-up call",
+    "start": "2026-10-01T10:00:00-04:00"
+  },
+  {
+    "agent_id": "A1",
+    "title": "Follow-up call",
+    "start": "2026-10-01T10:00:00-04:00"
+  }
+]
